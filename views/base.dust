@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        {+metatags/}
+        {+links/}
+        {+initscripts/}
+    </head>
+    <body>
+        {+content/}
+        {+scripts/}
+    </body>
+</html>

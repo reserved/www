@@ -1,0 +1,23 @@
+{<metatags}
+
+{/metatags}
+
+{<links}
+
+{/links}
+
+{<initscripts}
+
+{/initscripts}
+
+{<content}
+
+{/content}
+
+{<scripts}
+<script charset="utf-8" src="js/jquery.min.js"></script>
+<script charset="utf-8" src="js/underscore.js"></script>
+<script charset="utf-8" src="js/backbone.js"></script>
+<script charset="utf-8" src='js/backbone.marionette.js'></script>
+<script charset="utf-8" src='js/allyent.js'></script>
+{/scripts}
